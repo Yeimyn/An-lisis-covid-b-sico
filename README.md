@@ -1,2 +1,2 @@
-# An-lisis-covid-b-sico
-Análisis de datos COVID-19 del Ministerio de Salud de Costa Rica
+# Análisis covid básico
+Este repositorio contiene gráficos de análisis de datos COVID-19 del Ministerio de Salud de Costa Rica
